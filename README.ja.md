@@ -1,3 +1,5 @@
+[English](README.md) | **日本語**
+
 # Donisuc
 
 **Donisuc** (/ˈdɒnɪsʌk/) — *dni* (ポーランド語で「日々」)、*scope* (見通し)、*success* (成功) に由来する名前です。

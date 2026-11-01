@@ -1,3 +1,5 @@
+**English** | [日本語](motivation.ja.md)
+
 # Motivation and Directions for Improvement
 
 This document records the issues identified through using and improving Schronu, along with what we want to achieve with Donisuc. These directions for improvement are a starting point for design discussions; specific implementation approaches and timelines have not yet been decided. “Design considerations” lists topics that need further clarification and examination.

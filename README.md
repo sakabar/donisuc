@@ -1,3 +1,5 @@
+**English** | [日本語](README.ja.md)
+
 # Donisuc
 
 **Donisuc** (/ˈdɒnɪsʌk/) — A name derived from *dni* (Polish for "days"), *scope*, and *success*.
